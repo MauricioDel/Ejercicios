@@ -1,0 +1,14 @@
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\bin\Debug\Entidades.exe
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\bin\Debug\Entidades.exe.config
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Maury\source\repos\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
