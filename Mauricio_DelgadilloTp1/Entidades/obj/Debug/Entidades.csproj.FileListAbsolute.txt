@@ -5,3 +5,10 @@ C:\Users\Maury\source\repos\Entidades\Entidades\bin\Debug\Entidades.exe
 C:\Users\Maury\source\repos\Entidades\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Maury\source\repos\Entidades\Entidades\obj\Debug\Entidades.exe
 C:\Users\Maury\source\repos\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Maury\Desktop\TP1\tp_laboratorio_2\Mauricio_DelgadilloTp1\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Maury\Desktop\TP1\tp_laboratorio_2\Mauricio_DelgadilloTp1\Entidades\bin\Debug\Entidades.exe
+C:\Users\Maury\Desktop\TP1\tp_laboratorio_2\Mauricio_DelgadilloTp1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Maury\Desktop\TP1\tp_laboratorio_2\Mauricio_DelgadilloTp1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Maury\Desktop\TP1\tp_laboratorio_2\Mauricio_DelgadilloTp1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Maury\Desktop\TP1\tp_laboratorio_2\Mauricio_DelgadilloTp1\Entidades\obj\Debug\Entidades.exe
+C:\Users\Maury\Desktop\TP1\tp_laboratorio_2\Mauricio_DelgadilloTp1\Entidades\obj\Debug\Entidades.pdb
